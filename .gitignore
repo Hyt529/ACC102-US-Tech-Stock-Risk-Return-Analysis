@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter cache
+.ipynb_checkpoints/
+*.ipynb.*.json
+
+# System files
+.DS_Store
+Thumbs.db
+*.swp
+
+# Large raw data
+data/raw/*.csv
+data/raw/*.xlsx
+
+# Virtual environment
+venv/
+env/
+
+# Logs
+*.log
+*.tmp
+
+# IDE config
+.idea/
+.vscode/

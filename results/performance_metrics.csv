@@ -1,0 +1,7 @@
+ticker,5y_cumulative_return_pct,annualized_return_pct,annualized_volatility_pct,sharpe_ratio,max_drawdown_pct,annualized_excess_return_pct
+TSLA,1348.05,269.61,76.75,3.49,-67.72,333.22
+AAPL,251.87,50.37,28.93,1.67,-26.4,113.98
+MSFT,179.52,35.9,22.4,1.51,-30.51,99.51
+GOOGL,183.62,36.72,27.04,1.28,-40.4,100.33
+META,186.34,37.27,41.13,0.86,-75.44,100.87
+AMZN,137.46,27.49,32.86,0.78,-52.1,91.1
